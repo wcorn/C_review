@@ -142,6 +142,7 @@
     <ClCompile Include="hw2_732.c" />
     <ClCompile Include="hw2_733a.c" />
     <ClCompile Include="hw2_733b.c" />
+    <ClCompile Include="hw2_942.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
